@@ -1,0 +1,6 @@
+# Robots.txt - Football Prediction Pro
+
+User-agent: *
+Allow: /
+
+Sitemap: https://hasin5454.github.io/football-prediction-pro/sitemap.xml

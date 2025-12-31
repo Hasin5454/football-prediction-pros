@@ -1,0 +1,17 @@
+# Security.txt - Football Prediction Pro Security Policy
+
+This security.txt file is used to help security researchers report vulnerabilities.
+
+Contact: mailto:support@footballprediction.pro
+Expires: 2026-12-31T23:59:59Z
+
+Preferred Languages: en, bn
+
+# Our Security Policy
+We welcome responsible security research and disclosure. If you believe you've found a security vulnerability, please contact us immediately.
+
+# Encryption
+Our email supports PGP encryption for sensitive communications.
+
+# Attribution
+This policy was last updated on December 31, 2025.

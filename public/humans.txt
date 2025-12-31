@@ -1,0 +1,31 @@
+# Humans.txt - Credit for Football Prediction Pro
+
+This project was created by MiniMax Agent.
+
+## Development Team
+* Lead Developer: MiniMax Agent
+* Project: AI Football Prediction Platform
+
+## Technology Stack
+* Next.js 14 - React Framework
+* TypeScript - Programming Language
+* Tailwind CSS - Styling Framework
+* Framer Motion - Animation Library
+* Radix UI - Component Library
+
+## Purpose
+This is an AI-powered football prediction platform that provides
+statistical analysis and predictions for football matches.
+
+## Last Updated
+December 31, 2025
+
+## License
+MIT License - See LICENSE file for details
+
+## Contact
+Email: support@footballprediction.pro
+GitHub: https://github.com/Hasin5454/football-prediction-pro
+
+---
+"This project is made with ❤️ by MiniMax Agent"
